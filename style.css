@@ -1,0 +1,85 @@
+body{
+
+    color: yellowgreen;
+
+    font-weight: bolder;
+
+    font-size: 20px;
+
+    background-image: url(IMG20190421175551.jpg);
+
+    background-position: justify;
+
+    padding-bottom: 10%;
+
+    background-size: cover;
+
+    text-align: center;
+
+    font-family: Times New Roman;
+
+    background-repeat: no-repeat;
+
+}
+
+header{
+
+    background-color: white;
+
+    text-shadow: -3px 10px 5px black;
+
+}
+
+p{
+
+    font-size: 20px;
+
+    font-weight: bolder;
+
+    color: whitesmoke;
+
+    padding-bottom: 20px;
+
+  font-family: Times New Roman;
+
+    
+
+}
+
+h1{
+
+   
+
+    font-size: 30px;
+
+    color: yellowgreen;
+
+    font-weight: bold;
+
+  text-shadow: -3px 10px 5px black;
+
+    padding-bottom: 20px;
+
+}
+
+h2{
+
+     font-size: 30px;
+
+    font-weight: bold;
+
+	text-shadow: -3px 10px 5px black;    color: greenyellow;
+
+    padding: 20px 0px 20px 0px;
+
+}
+
+ul li{
+
+	font-family: Times New Roman;
+
+    color: whitesmoke;
+
+    font-size: 20px;
+
+}
